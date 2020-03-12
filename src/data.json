@@ -1,0 +1,93 @@
+{
+    "profiles":[
+        {
+            "basics":{
+                "name":"viswa",
+                "email":"tiruveswak1222@gmail.com",
+                "mobile":"+91 987654446"
+            },
+            "education":[
+                {
+                    "degree":"ssc",
+                    "percentage":"80%",
+                    "institute":"sri chaithanya school"
+                },
+                {
+                    "degree":"inter",
+                    "branch":"mpc",
+                    "percentage":"80%",
+                    "institute":"sri chaithanya school"
+                },
+                {
+                    "degree":"B-tech",
+                    "branch":"CSE",
+                    "percentage":"80%",
+                    "institute":" vvit"
+                }
+            ],
+            "skills":[
+                {
+                    "type":"programming languages",
+                    "values":["c","c++","java","python"]
+                },
+                {
+                    "type":"web technology",
+                    "values":["HTML","C++","JAVA SCRIPT","python"]
+                },
+                {
+                    "type":"fire works and libraries",
+                    "values":["React js"]
+                },
+                {
+                        "type":"Operating systems",
+                        "values":["Mac os","linux","ubuntu","windows"]
+                }
+            ]
+        },  
+           {  
+                "basics":{
+                    "name":"vishwaksena",
+                    "email":"tiruveswak1222@gmail.com",
+                    "mobile":"+91 98545654446"
+                },
+                "education":[
+                    {
+                        "degree":"ssc",
+                        "percentage":"85%",
+                        "institute":"sri chaithanya school"
+                    },
+                    {
+                        "degree":"inter",
+                        "branch":"mpc",
+                        "percentage":"85%",
+                        "institute":"sri chaithanya school"
+                    },
+                    {
+                        "degree":"B-tech",
+                        "branch":"CSE",
+                        "percentage":"85%",
+                        "institute":" vvit"
+                    }
+                ],
+                "skills":[
+                    {
+                        "type":"programming languages",
+                        "values":["c","c++","java","python"]
+                    },
+                    {
+                        "type":"web technology",
+                        "values":["HTML","C++","JAVA SCRIPT","python"]
+                    },
+                    {
+                        "type":"Operating systems",
+                        "values":["Mac os","linux","ubuntu","windows"]
+                    },
+                    {
+                        "type":"fire works and libraries",
+                        "values":["React js"]
+                    }
+                ]  
+
+            }
+    ]
+}
